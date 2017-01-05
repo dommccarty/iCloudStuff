@@ -1,5 +1,5 @@
 # iCloudStuff
-An Objective-C module for Titanium. Lets you use the iCloud keychain. This is an implementation of the excellent tutorial found here: http://www.lighthouselogic.com/icloud-in-titanium/ with the addition of the ```is_icloud_enabled``` method.
+An Objective-C module for Titanium. Lets you use the iCloud keychain. This is an implementation of the excellent tutorial found here: http://www.lighthouselogic.com/icloud-in-titanium/ with the addition of the ```is_icloud_enabled``` method. See that tutorial for how to setup your ```Entitlements.plist``` file, and how to update your Provisioning Profile to use iCloud.
 
 Usage:
 ```
