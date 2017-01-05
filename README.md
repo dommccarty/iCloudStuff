@@ -20,5 +20,4 @@ if (icloud_enabled) {
         alert(iCloudStuff.getString({key: "datum"})); //"The iCloud Keychain is the greatest!"
     }, 0);
 }
-
-
+```
