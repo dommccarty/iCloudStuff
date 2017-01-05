@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 3.0.0
+apiversion: 2
+architectures: armv7 arm64 i386 x86_64
+description: iCloudStuff
+author: dom
+license: Specify your license
+copyright: dom
+
+# these should not be edited
+name: iCloudStuff
+moduleid: com.restado.iCloudStuff
+guid: d58f7970-b359-4283-a4e3-5597b09c4d9a
+platform: iphone
+minsdk: 3.5.1.RC
